@@ -56,10 +56,10 @@ Veamos el link [Veamos](linkrelativo.md)
 
 10. Para nombrar a usuario o equipos, utilizamos el caracter de arroba, ejemplo:
 
-@github/team
+@github/support
 
 11. Para emojis, utilizamos los puntos dobles, ejemplo:
 
-:like:
+:poop:
 
 12. 
