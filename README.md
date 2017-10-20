@@ -35,4 +35,11 @@ for a from 0 to 10 do
 Puedes visitar mi blog en, [Ingeniería USAC](https://lopezeddy.blogspot.com)
 
 6. Para crear un enlace dentro del repositorio, también podemos utilizar los corchetes y paréntesis, ejemplo:
-Veamos el link [Veamos](../linkrelativo.md)
+Veamos el link [Veamos](linkrelativo.md)
+
+7. Para crear un listado, utilizamos el guión o el asterisco, ejemplo:
+- Uno
+- Dos
+- Tres
+* Unodos
+* Trescuatro
