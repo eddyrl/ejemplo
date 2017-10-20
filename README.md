@@ -40,11 +40,9 @@ Veamos el link [Veamos](linkrelativo.md)
 7. Para crear un listado, utilizamos el guión o el asterisco, ejemplo:
 
 - uno
-
-* Unodos
-* Trescuatro
+- dos
 
 8. Para crear una lista anidada, utilizamos la sangría, ejemplo:
- - 8.1 Primer nivel
-    - Segundo nivel
-      * tercer nivel
+  - Primer nivel
+   - Segundo nivel
+    - Tercer nivel
