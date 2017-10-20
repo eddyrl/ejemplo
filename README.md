@@ -47,6 +47,7 @@ Veamos el link [Veamos](linkrelativo.md)
 * Trescuatro
 
 8. Para crear una lista anidada, utilizamos la sangría, ejemplo:
+
   8.1 Primer nivel
     - Segundo nivel
       * tercer nivel
