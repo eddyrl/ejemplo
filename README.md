@@ -32,4 +32,6 @@ for a from 0 to 10 do
 ```
 5. Puedes crear un hipervinculo con corchetes y paréntesis, como ejemplo:
 
-Puedes visitar mi blog en, [Ingeniería USAC](http://lopezeddy.blogspot.com)
+Puedes visitar mi blog en, [Ingeniería USAC](https://lopezeddy.blogspot.com)
+
+6. 
