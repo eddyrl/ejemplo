@@ -38,8 +38,15 @@ Puedes visitar mi blog en, [Ingeniería USAC](https://lopezeddy.blogspot.com)
 Veamos el link [Veamos](linkrelativo.md)
 
 7. Para crear un listado, utilizamos el guión o el asterisco, ejemplo:
+
 - Uno
 - Dos
 - Tres
+
 * Unodos
 * Trescuatro
+
+8. Para crear una lista anidada, utilizamos la sangría, ejemplo:
+  8.1 Primer nivel
+    - Segundo nivel
+      * tercer nivel
