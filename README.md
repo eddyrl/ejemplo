@@ -53,3 +53,13 @@ Veamos el link [Veamos](linkrelativo.md)
 - [x] Tarea uno
 - [ ] Tarea dos
 - [ ] \(no se) veamos
+
+10. Para nombrar a usuario o equipos, utilizamos el caracter de arroba, ejemplo:
+
+@github/team
+
+11. Para emojis, utilizamos los puntos dobles, ejemplo:
+
+:like:
+
+12. 
