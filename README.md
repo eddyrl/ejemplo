@@ -44,5 +44,5 @@ Veamos el link [Veamos](linkrelativo.md)
 
 8. Para crear una lista anidada, utilizamos la sangría, ejemplo:
   - Primer nivel
-   - Segundo nivel
-    - Tercer nivel
+    - Segundo nivel
+      - Tercer nivel
