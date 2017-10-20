@@ -23,9 +23,8 @@ Ejemplo:
 
 4. Para agregar código a nuestro texto, utilizaremos las comillas simples: ' ' para textos pequeños y tripe comilla simple para bloques de código, ejemplo:
 
-' code this ', or
+`code this`, or
 
-''' python
+``` python
 for a from 0 to 10 do
-
-'''
+``
