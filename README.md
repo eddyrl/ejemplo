@@ -16,3 +16,7 @@ Italic, utilizando un asterisco o un guión bajo, ejemplo:
 
 Para tachado, utilizamos la virgulla, ejemplo:
 ~~esto debería estar tachado~~
+
+3. Para citar textos, utilizamos el signo mayor que: > texto
+Ejemplo:
+> Esta es una cita
