@@ -47,3 +47,9 @@ Veamos el link [Veamos](linkrelativo.md)
      - Segundo nivel
        - Tercer nivel
          - cuarto 
+
+9. Para crear una lista de tareas utilizamos el siguiente formato:
+
+- [x] Tarea uno
+- [ ] Tarea dos
+- [ ] \(no se) veamos
