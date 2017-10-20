@@ -26,5 +26,10 @@ Ejemplo:
 `code this`, or
 
 ``` python
+
 for a from 0 to 10 do
-``
+
+```
+5. Puedes crear un hipervinculo con corchetes y paréntesis, como ejemplo:
+
+Puedes visitar mi blog en, [Ingenieriá USAC](lopezeddy.blogspot.com)
